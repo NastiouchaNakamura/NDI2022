@@ -1,2 +1,5 @@
 # Project exclude paths
 /target/
+!/target/ndi-1.0-SNAPSHOT.war
+.idea/
+*.iml

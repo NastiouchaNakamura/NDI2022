@@ -3,7 +3,7 @@ TD Noté IMIS - 2022
 Description
 -
 Vous devez compléter une application de gestion de clientèle.
-Le schéma UML est fourni (fichier imis.png).
+Le schéma UML est fourni (fichier ndi22.png).
 A vous de l'implanter en java et de coder les méthodes permettant de l'exploiter.
 
 **Remarques:**
